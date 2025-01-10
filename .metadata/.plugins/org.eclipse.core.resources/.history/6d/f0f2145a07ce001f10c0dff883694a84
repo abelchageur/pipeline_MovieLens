@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_IcNV8MkkEe-x4IEjCUxLvw" confirmationNeeded="false" name="DEV">
+    <contextParameter xmi:id="_IcNV8ckkEe-x4IEjCUxLvw" comment="" name="db_host" prompt="db_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_IcNV8skkEe-x4IEjCUxLvw" comment="" name="db_port" prompt="db_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_IcNV88kkEe-x4IEjCUxLvw" comment="" name="db_name" prompt="db_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="database_dev"/>
+    <contextParameter xmi:id="_IcNV9MkkEe-x4IEjCUxLvw" comment="" name="db_user" prompt="db_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="admin"/>
+    <contextParameter xmi:id="_IcNV9ckkEe-x4IEjCUxLvw" comment="" name="db_pass" prompt="db_pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="password"/>
+    <contextParameter xmi:id="_IcNV9skkEe-x4IEjCUxLvw" comment="" name="inputDirectory" prompt="inputDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/path/to/input&#xA;"/>
+    <contextParameter xmi:id="_IcNV98kkEe-x4IEjCUxLvw" comment="" name="outputDirectory" prompt="outputDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/path/to/output&#xA;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_tGJN0MlREe-v-4lrgEj3Uw" confirmationNeeded="false" name="TEST">
+    <contextParameter xmi:id="_tGJN0clREe-v-4lrgEj3Uw" comment="" name="db_host" prompt="db_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="192.168.1.100"/>
+    <contextParameter xmi:id="_tGJN0slREe-v-4lrgEj3Uw" comment="" name="db_port" prompt="db_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_tGJN08lREe-v-4lrgEj3Uw" comment="" name="db_name" prompt="db_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="database_test"/>
+    <contextParameter xmi:id="_tGJN1MlREe-v-4lrgEj3Uw" comment="" name="db_user" prompt="db_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="test_user"/>
+    <contextParameter xmi:id="_tGJN1clREe-v-4lrgEj3Uw" comment="" name="db_pass" prompt="db_pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="password"/>
+    <contextParameter xmi:id="_tGJN1slREe-v-4lrgEj3Uw" comment="" name="inputDirectory" prompt="inputDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/path/to/input&#xA;"/>
+    <contextParameter xmi:id="_tGJN18lREe-v-4lrgEj3Uw" comment="" name="outputDirectory" prompt="outputDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/path/to/output&#xA;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_tGJN2MlREe-v-4lrgEj3Uw" confirmationNeeded="false" name="PROD">
+    <contextParameter xmi:id="_tGJN2clREe-v-4lrgEj3Uw" comment="" name="db_host" prompt="db_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="prod-db.example.com&#xA;"/>
+    <contextParameter xmi:id="_tGJN2slREe-v-4lrgEj3Uw" comment="" name="db_port" prompt="db_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="5432"/>
+    <contextParameter xmi:id="_tGJN28lREe-v-4lrgEj3Uw" comment="" name="db_name" prompt="db_name?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="database_prod"/>
+    <contextParameter xmi:id="_tGJN3MlREe-v-4lrgEj3Uw" comment="" name="db_user" prompt="db_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="prod_user&#xA;"/>
+    <contextParameter xmi:id="_tGJN3clREe-v-4lrgEj3Uw" comment="" name="db_pass" prompt="db_pass?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="password"/>
+    <contextParameter xmi:id="_tGJN3slREe-v-4lrgEj3Uw" comment="" name="inputDirectory" prompt="inputDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/path/to/input&#xA;"/>
+    <contextParameter xmi:id="_tGJN38lREe-v-4lrgEj3Uw" comment="" name="outputDirectory" prompt="outputDirectory?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="/path/to/output&#xA;"/>
+  </talendfile:ContextType>
+</xmi:XMI>

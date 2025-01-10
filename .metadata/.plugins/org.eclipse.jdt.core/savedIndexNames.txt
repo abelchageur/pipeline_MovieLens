@@ -1,0 +1,22 @@
+INDEX VERSION 1.131+C:\Users\Youcode\Desktop\projet_2025\workspace\projet_data\pipeline_MovieLens\.metadata\.plugins\org.eclipse.jdt.core
+3510076537.index
+3823469783.index
+1808502831.index
+365071819.index
+3399400434.index
+4192339655.index
+835256796.index
+4073864033.index
+2410267518.index
+2781296059.index
+1296780932.index
+2552485657.index
+658491486.index
+3089868746.index
+3002913016.index
+148416786.index
+3227214301.index
+1242787514.index
+344560665.index
+3987219489.index
+2947095905.index

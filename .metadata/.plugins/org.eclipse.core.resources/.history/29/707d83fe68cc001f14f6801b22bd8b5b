@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_xamoAMxDEe-mcdLkeL8qGQ" id="_xafTQMxDEe-mcdLkeL8qGQ" label="Nettoyage_donnees" version="0.1" statusCode="" item="_xamoAsxDEe-mcdLkeL8qGQ" displayName="Nettoyage_donnees">
+    <author href="../talend.project#_f8smsMxDEe-mcdLkeL8qGQ"/>
+    <additionalProperties xmi:id="_xan2IMxDEe-mcdLkeL8qGQ" key="created_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_xan2IcxDEe-mcdLkeL8qGQ" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_xan2IsxDEe-mcdLkeL8qGQ" key="created_date" value="2025-01-06T16:34:52.290+0100"/>
+    <additionalProperties xmi:id="_xan2I8xDEe-mcdLkeL8qGQ" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_xan2JMxDEe-mcdLkeL8qGQ" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_xan2JcxDEe-mcdLkeL8qGQ" key="modified_date" value="2025-01-06T21:00:41.161+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_xamoAcxDEe-mcdLkeL8qGQ" path="" locked="true" lockDate="2025-01-06T16:34:53.214+0100">
+    <locker href="../talend.project#_f8smsMxDEe-mcdLkeL8qGQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_xamoAsxDEe-mcdLkeL8qGQ" property="_xamoAMxDEe-mcdLkeL8qGQ" state="_xamoAcxDEe-mcdLkeL8qGQ">
+    <process href="Nettoyage_donnees_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

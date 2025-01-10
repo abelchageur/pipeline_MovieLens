@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_cQzHQMxEEe-mcdLkeL8qGQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_cQzHQcxEEe-mcdLkeL8qGQ" comment="" name="input_file" prompt="input_file?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\Youcode\Desktop\projet_2025\workspace\projet_data\pipeline_MovieLens\input"/>
+  <contextParameter xmi:id="_cQzHQsxEEe-mcdLkeL8qGQ" comment="" name="output_file" prompt="output_file?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\Youcode\Desktop\projet_2025\workspace\projet_data\pipeline_MovieLens\output"/>
+</talendfile:ContextType>

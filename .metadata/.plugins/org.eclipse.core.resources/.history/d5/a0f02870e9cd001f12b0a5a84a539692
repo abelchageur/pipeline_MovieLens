@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_BUA-cMxJEe-9Yc7SMxQuUg" id="_BUAXYMxJEe-9Yc7SMxQuUg" label="metadata_ratings" version="0.1" statusCode="" item="_BUA-csxJEe-9Yc7SMxQuUg" displayName="metadata_ratings">
+    <author href="../../talend.project#_f8smsMxDEe-mcdLkeL8qGQ"/>
+    <additionalProperties xmi:id="_BUITMMxJEe-9Yc7SMxQuUg" key="created_product_fullname" value="Talend Cloud API Services Platform"/>
+    <additionalProperties xmi:id="_BUITMcxJEe-9Yc7SMxQuUg" key="created_product_version" value="8.0.1.20240524_0800-patch"/>
+    <additionalProperties xmi:id="_BUITMsxJEe-9Yc7SMxQuUg" key="created_date" value="2025-01-06T17:12:26.467+0100"/>
+    <additionalProperties xmi:id="_BUITM8xJEe-9Yc7SMxQuUg" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_BUITNMxJEe-9Yc7SMxQuUg" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_BUITNcxJEe-9Yc7SMxQuUg" key="modified_date" value="2025-01-08T18:52:21.985+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_JfcbwM3eEe-PacRm2XRGRg" path=""/>
+  <TalendProperties:DelimitedFileConnectionItem xmi:id="_BUA-csxJEe-9Yc7SMxQuUg" property="_BUA-cMxJEe-9Yc7SMxQuUg" state="_JfcbwM3eEe-PacRm2XRGRg">
+    <connection href="metadata_ratings_0.1.item#_BUAXYcxJEe-9Yc7SMxQuUg"/>
+  </TalendProperties:DelimitedFileConnectionItem>
+</xmi:XMI>

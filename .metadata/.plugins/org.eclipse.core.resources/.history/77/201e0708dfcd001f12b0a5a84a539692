@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_lF00sczoEe-Tco6e1aWcDw" id="_lF00sMzoEe-Tco6e1aWcDw" label="DimUser" purpose="Ce Job vérifie les types des colonnes (UserID, MovieID, Rating, Timestamp) et la plage des valeurs pour la colonne Rating." version="0.1" statusCode="" item="_lF00s8zoEe-Tco6e1aWcDw" displayName="DimUser">
+    <author href="../../../talend.project#_f8smsMxDEe-mcdLkeL8qGQ"/>
+    <additionalProperties xmi:id="_lF8JcMzoEe-Tco6e1aWcDw" key="created_product_fullname" value="Talend Cloud API Services Platform"/>
+    <additionalProperties xmi:id="_lF8JcczoEe-Tco6e1aWcDw" key="created_product_version" value="8.0.1.20240524_0800-patch"/>
+    <additionalProperties xmi:id="_lF8JcszoEe-Tco6e1aWcDw" key="created_date" value="2025-01-07T12:14:36.551+0100"/>
+    <additionalProperties xmi:id="_lF8Jc8zoEe-Tco6e1aWcDw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_lF8JdMzoEe-Tco6e1aWcDw" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_lF8JdczoEe-Tco6e1aWcDw" key="modified_date" value="2025-01-08T17:38:37.841+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_OopxQM3eEe-PacRm2XRGRg" path="Nettoyage_Transformation/tags"/>
+  <TalendProperties:ProcessItem xmi:id="_lF00s8zoEe-Tco6e1aWcDw" property="_lF00sczoEe-Tco6e1aWcDw" state="_OopxQM3eEe-PacRm2XRGRg">
+    <process href="DimUser_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

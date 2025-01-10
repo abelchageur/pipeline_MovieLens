@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_IcSOcMkkEe-x4IEjCUxLvw" id="_Ib07cMkkEe-x4IEjCUxLvw" label="vars_connection" version="0.1" statusCode="" item="_IcS1gckkEe-x4IEjCUxLvw" displayName="vars_connection">
+    <author href="../talend.project#_f8smsMxDEe-mcdLkeL8qGQ"/>
+    <additionalProperties xmi:id="_IcUqsMkkEe-x4IEjCUxLvw" key="created_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_IcUqsckkEe-x4IEjCUxLvw" key="created_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_IcUqsskkEe-x4IEjCUxLvw" key="created_date" value="2025-01-02T17:10:49.435+0100"/>
+    <additionalProperties xmi:id="_IcUqs8kkEe-x4IEjCUxLvw" key="modified_product_fullname" value="Talend Open Studio for Data Integration"/>
+    <additionalProperties xmi:id="_IcUqtMkkEe-x4IEjCUxLvw" key="modified_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_IcUqtckkEe-x4IEjCUxLvw" key="modified_date" value="2025-01-08T22:26:59.186+0100"/>
+    <additionalProperties xmi:id="_gCuFEMmkEe-W4dT6doK9xA" key="import_product_fullname" value="Talend Open Studio for ESB"/>
+    <additionalProperties xmi:id="_gCuFEcmkEe-W4dT6doK9xA" key="import_product_version" value="8.0.1.20211109_1610"/>
+    <additionalProperties xmi:id="_gCuFEsmkEe-W4dT6doK9xA" key="import_date" value="2025-01-03T08:29:42.910+0100"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_Lqyx0M4GEe-oxtuA3Sm6mw" path="" locked="true" lockDate="2025-01-08T22:26:59.186+0100">
+    <locker href="../talend.project#_f8smsMxDEe-mcdLkeL8qGQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ContextItem xmi:id="_IcS1gckkEe-x4IEjCUxLvw" property="_IcSOcMkkEe-x4IEjCUxLvw" state="_Lqyx0M4GEe-oxtuA3Sm6mw" defaultContext="DEV">
+    <context href="vars_connection_0.1.item#_IcNV8MkkEe-x4IEjCUxLvw"/>
+    <context href="vars_connection_0.1.item#_tGJN0MlREe-v-4lrgEj3Uw"/>
+    <context href="vars_connection_0.1.item#_tGJN2MlREe-v-4lrgEj3Uw"/>
+  </TalendProperties:ContextItem>
+</xmi:XMI>

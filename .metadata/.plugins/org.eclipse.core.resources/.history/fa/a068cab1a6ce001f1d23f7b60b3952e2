@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TalendMetadata:DatabaseConnection xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmi:id="_qnjIMM6mEe-5UbFJVlxlYg" name="mohamed" id="_f6QfEM6mEe-5UbFJVlxlYg" label="mohamed" DatabaseType="Microsoft SQL Server" DriverClass="net.sourceforge.jtds.jdbc.Driver" URL="jdbc:jtds:sqlserver://localhost:1433/rabii;instance=SQLEXPRESS" dbVersionString="JTDS" Port="1433" Username="sa" Password="enc:system.encryption.key.v1:I6blSaUMOPhJnhuQnuUqlnkKL+fz3+gEGYDGbBtIA8q2U/Y=" ServerName="localhost" DatasourceName="" FileFieldName="" SID="rabii" SqlSynthax="" StringQuote="" NullChar="" DbmsId="id_MSSQL" ProductId="SQL_SERVER" AdditionalParams="instance=SQLEXPRESS" StandardSQL="true" SQLMode="false" UiSchema="dbo">
+  <taggedValue xmi:id="_qnjIMc6mEe-5UbFJVlxlYg" tag="Is Conn Need Reload" value="true"/>
+  <parameters xmi:id="_qnjIMs6mEe-5UbFJVlxlYg" key="CONN_PARA_KEY_USERNAME" value="sa"/>
+</TalendMetadata:DatabaseConnection>

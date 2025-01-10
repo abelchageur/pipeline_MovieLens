@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_BUAXYcxJEe-9Yc7SMxQuUg" name="ratings_donnes" id="_BUAXYMxJEe-9Yc7SMxQuUg" dataPackage="_BUAXYsxJEe-9Yc7SMxQuUg" Server="Localhost 127.0.0.1" FilePath="C:/Users/Youcode/Desktop/talend_sql_powerBi/fichier_projet/Input/ratings.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_BUAXYsxJEe-9Yc7SMxQuUg" name="default" dataManager="_BUAXYcxJEe-9Yc7SMxQuUg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_BUAXY8xJEe-9Yc7SMxQuUg" id="_dmRvoMxIEe-9Yc7SMxQuUg" label="Ratings_metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUAXZMxJEe-9Yc7SMxQuUg" label="userId" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUAXZcxJEe-9Yc7SMxQuUg" label="movieId" length="3" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUAXZsxJEe-9Yc7SMxQuUg" label="rating" length="3" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_BUAXZ8xJEe-9Yc7SMxQuUg" label="timestamp" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ZhDBoMwyEe-43qU4SFGLhw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_ZhDBocwyEe-43qU4SFGLhw" comment="" name="input_csv" prompt="input_csv?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\Youcode\Desktop\VS_project\Sprint2\Pipeline_tal_Sql_BI\input_data"/>
+  <contextParameter xmi:id="_ZhDBoswyEe-43qU4SFGLhw" comment="" name="output_csv" prompt="output_csv?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\Youcode\Desktop\VS_project\Sprint2\Pipeline_tal_Sql_BI\output_data"/>
+  <contextParameter xmi:id="_ZhDBo8wyEe-43qU4SFGLhw" comment="" name="ENV" prompt="ENV?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="DEV"/>
+</talendfile:ContextType>

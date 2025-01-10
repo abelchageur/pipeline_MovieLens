@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_K3sP4M0UEe-euffEQnYgOQ" name="fabour" id="_K3bxMM0UEe-euffEQnYgOQ" dataPackage="_K3sP4c0UEe-euffEQnYgOQ" Server="Localhost 127.0.0.1" FilePath="C:/Users/Youcode/Desktop/projet_2025/data/movies.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FooterValue="0" LimitValue="0" FirstLineCaption="true" FieldSeparatorType="Comma" splitRecord="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_K3sP4c0UEe-euffEQnYgOQ" name="default" dataManager="_K3sP4M0UEe-euffEQnYgOQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_K3sP4s0UEe-euffEQnYgOQ" id="_FW7WAM0UEe-euffEQnYgOQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K3sP480UEe-euffEQnYgOQ" label="movieId" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K3sP5M0UEe-euffEQnYgOQ" label="title" length="52" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K3sP5c0UEe-euffEQnYgOQ" label="genres" length="43" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K3sP5s0UEe-euffEQnYgOQ" label="Column3" length="22" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_K3sP580UEe-euffEQnYgOQ" label="Column4" length="38" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
